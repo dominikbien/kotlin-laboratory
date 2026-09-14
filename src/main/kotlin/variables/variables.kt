@@ -69,7 +69,7 @@ fun main(args: Array<String>) {
         //non-null
         var number: Int? = null
         number!!.minus(2) //NullPointerException
-        
+
 
 
 
